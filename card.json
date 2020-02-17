@@ -1,0 +1,27 @@
+{
+    "version" : "1.0",
+    "measurement" : "sips",
+    "cards" : [
+        {
+            "message" : "If you or your parents tap fruits to know if it is a good fruit, take",
+            "sipNumber" : "1"
+        },
+        {
+            "message" : "If you crave boba milk tea after a meal, take",
+            "sipNumber" : "2"
+        },
+        {
+            "message" : "If your parents wont accept anything less than A+, take ",
+            "sipNumber" : "3"
+        },
+        {
+            "message" : "If your parents say finish your bowl of rice or your future married partner will have spots, take",
+            "sipNumber" : "4"
+        },
+        {
+            "message" : "If your parents don't say I love you, take",
+            "sipNumber" : "5"
+        }
+    ]
+}
+
