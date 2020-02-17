@@ -21,6 +21,10 @@
         {
             "message" : "If your parents don't say I love you, take",
             "sipNumber" : "5"
+        },
+        {
+            "message" : "If your last name is Wang, Wong, Chan, Chen, Lee, Li, Le, take",
+            "sipNumber" : "6"
         }
     ]
 }
