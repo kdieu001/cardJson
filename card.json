@@ -1,37 +1,3 @@
 {
-    "version" : "1.0",
-    "measurement" : "sip",
-    "cards" : [
-        {
-            "category" : "Trait",
-            "message" : "If you or your parents tap fruits to know if it is a good fruit, take",
-            "sipNumber" : "1"
-        },
-        {
-            "category" : "Trait",
-            "message" : "If you crave boba milk tea after a meal, take",
-            "sipNumber" : "2"
-        },
-        {
-            "category" : "Trait",
-            "message" : "If your parents wont accept anything less than A+, take ",
-            "sipNumber" : "3"
-        },
-        {
-
-            "category" : "Trait",
-            "message" : "If your parents say finish your bowl of rice or your future married partner will have spots, take",
-            "sipNumber" : "4"
-        },
-        {
-            "category" : "Trait",
-            "message" : "If your parents don't say I love you, take",
-            "sipNumber" : "5"
-        },
-        {
-            "category" : "Trait",
-            "message" : "If your last name is Wang, Wong, Chan, Chen, Lee, Li, Le, take",
-            "sipNumber" : "6"
-        }
-    ]
+    "authToken" : "fad4fb911b9a980ea30814e0334ee0f80e2ae5c1"
 }
